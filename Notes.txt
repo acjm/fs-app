@@ -1,0 +1,5 @@
+Type of errors: 
+
+- Syntax Errors
+- Runtime Errors 
+- Logical Errors

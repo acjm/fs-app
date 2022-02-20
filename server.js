@@ -1,10 +1,10 @@
 const http = require("http");
 const routes = require("./routes");
 
-const PORT = 3000;
+const PORT = 8888;
 
 const server = http.createServer(routes);
 
 server.listen(PORT, () => {
-  console.log("listening to the server on port 3000");
+  console.log("listening to the server on port 7777");
 });
